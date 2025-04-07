@@ -1,5 +1,5 @@
 # Chain-of-ThoughtsPapers
-![](https://img.shields.io/github/last-commit/Timothyxxx/Chain-of-ThoughtsPapers?color=green)
+![](https://img.shields.io/github/last-commit/gigillion/All-Chain-of-Thoughts-Papers?color=green)
 A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Language Models".
 
 ## Papers
